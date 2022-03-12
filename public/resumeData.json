@@ -1,30 +1,25 @@
 {
   "main": {
     "name": "Tata Naidu Nukala",
-    "occupation": "ReactJS Developer at UBS",
-    "description": "ReactJS Developer && MERN Stack and DataScience enthusiast",
+    "occupation": "ReactJS Redux, Front End Developer at DBS",
+    "description": "a Javascript lover",
     "image": "tata.jpg",
-    "bio": "I am passionate developer, filled with positivity and energy. I always believe one thing --SWEAT more in training and BLEED less in war",
+    "bio": "I am a passionate developer, filled with positivity and energy. I always believe one thing --SWEAT more in training and BLEED less in war",
     "contactmessage": "Get in touch with me to receive further details",
     "email": "tatanaidunukala@gmail.com",
     "phone": "+918919235358",
     "address": {
-      "street": "Thite Nagar, Kharadi",
-      "city": "Pune",
-      "state": "Maharashtra",
-      "zip": "411014"
+      "street": "Hanuman Junction, Bapulapadu",
+      "city": "Krishna District,",
+      "state": "Andhra Pradesh",
+      "zip": "521105"
     },
     "website": "https://tatanaidun.github.io/mypersonalsite/",
     "resumedownload": "resume/Tata_Naidu_Nukala_Resume.pdf",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/tatanaidu.nukala",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tata-naidu-nukala-a1504b121/",
+        "url": "https://www.linkedin.com/in/tatanaidunukala/",
         "className": "fa fa-linkedin"
       },
       {
@@ -40,7 +35,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "",
     "education": [
       {
         "school": "Gayatri College Of Engineering",
@@ -51,48 +46,39 @@
     ],
     "work": [
       {
+        "company": "DBS",
+        "title": "ReactJs Developer",
+        "years": "March 2021 - March 2021",
+        "description": "Worked on Retail Broking application UI from scratch."
+      },
+      {
+        "company": "Qwinix",
+        "title": "Javascript Developer",
+        "years": "Nov 2020 - March 2021",
+        "description": "Worked in CoolerScreens project as Full stack developer"
+      },
+      {
         "company": "UBS",
         "title": "Software Engineer",
-        "years": "Feb 2019 - Present",
-        "description": "React Js Web Developer"
+        "years": "Feb 2019 - Nov 2020",
+        "description": "Worked in Application Adoption Factory Onion application with ReactJs, Redux"
       },
       {
         "company": "Wipro",
         "title": "Project Engineer",
         "years": "Jun 2017 - Jan 2019",
-        "description": "Developer in Migration Project."
+        "description": "Worked with Javascript and Java in the migration project of UBS"
       }
     ],
     "skills": [
-      {
-        "name": "ReactJs",
-        "level": "100%"
-      },
-      {
-        "name": "Node Js",
-        "level": "80%"
-      },
-
-      {
-        "name": "Python",
-        "level": "80%"
-      },
-      {
-        "name": "Machine Learning",
-        "level": "60%"
-      },
-      {
-        "name": "Git",
-        "level": "80%"
-      },
-      {
-        "name": "HTML5",
-        "level": "90%"
-      },
-      {
-        "name": "CSS3",
-        "level": "80%"
-      }
+      "React Js",
+      "Redux",
+      "Javascript",
+      "Typescript",
+      "HTML",
+      "CSS",
+      "Material-UI",
+      "Git"
     ]
   },
   "portfolio": {
@@ -126,13 +112,19 @@
         "category": "Amazon Clone built with ReactJS and ExpressJs",
         "image": "amazon-clone.PNG",
         "url": "https://clone-tata-9b4e4.web.app/"
+      },
+      {
+        "title": "Contact Messenger",
+        "category": "Contact Messenger with Reactjs and Firebase and Redux",
+        "image": "contactMessenger.PNG",
+        "url": "https://contactmessenger-tata.web.app/"
       }
     ]
   },
   "testimonials": {
     "testimonials": [
       {
-        "text": "It was a pleasure to work with Tata in the same team for more than an year. During this time, we worked on multiple projects related to Java, Spring, Hibernate based on Tomcat and Websphere. Tata is a person with a strong motivation and aims for excellence all the time. Tata is creative, energetic, solution oriented and highly motivated with great communication skills. His dedication towards the work is remarkable.",
+        "text": "It was a pleasure to work with Tata in the same team for more than an year. Tata is a person with a strong motivation and aims for excellence all the time. He is creative, energetic, solution oriented and highly motivated with great communication skills. His dedication towards the work is remarkable.",
         "user": "MD Farog Hussain"
       }
     ]

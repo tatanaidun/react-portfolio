@@ -29,11 +29,9 @@ class Resume extends Component {
         );
       });
       var skills = this.props.data.skills.map(function (skills) {
-        var className = "bar-expand " + skills.name.toLowerCase();
         return (
-          <li key={skills.name}>
-            <span style={{ width: skills.level }} className={className}></span>
-            <em>{skills.name}</em>
+          <li style={{ paddingTop: "1rem" }} key={skills}>
+            <em style={{ fontSize: "25px" }}>{"   " + skills}</em>
           </li>
         );
       });
@@ -75,9 +73,9 @@ class Resume extends Component {
           <div className="nine columns main-col">
             <p>{skillmessage}</p>
 
-            <div className="bars">
-              <ul className="skills">{skills}</ul>
-            </div>
+            {/* <div className="bars"> */}
+            <ul className="skills">{skills}</ul>
+            {/* </div> */}
           </div>
         </div>
       </section>
